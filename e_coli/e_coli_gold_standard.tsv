@@ -1,6 +1,6 @@
-source  to  weight
+from    to   weight
 G92	G2	1
-G232	G3	1
+G232	G3  1
 G55	G4	1
 G56	G4	1
 G268	G4	1
